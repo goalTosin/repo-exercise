@@ -1,4 +1,3 @@
 # repo-exercise
 
-This is just an experiment for my course
-
+This is just an experiment for my course.
