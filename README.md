@@ -2,4 +2,4 @@
 
 This is just an experiment for my course.
 
-This was and edit
+This was an edit.
